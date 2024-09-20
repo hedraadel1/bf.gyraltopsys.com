@@ -1,0 +1,4 @@
+[05-Sep-2024 06:43:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /onoostore/gyral/public_html/bf.gyraltopsys.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /onoostore/gyral/public_html/bf.gyraltopsys.com/config/database.php on line 18
